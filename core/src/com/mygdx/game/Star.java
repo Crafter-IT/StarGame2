@@ -10,7 +10,7 @@ public class Star extends ApplicationAdapter {
 	SpriteBatch batch;
 	Texture img;
 	Texture fon;
-	
+
 	@Override
 	public void create () {
 		batch = new SpriteBatch();
